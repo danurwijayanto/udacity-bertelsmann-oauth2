@@ -7,7 +7,7 @@ class Config(object):
     # AUTHORITY = "https://login.microsoftonline.com/Enter_the_Tenant_Name_Here"
 
     # TODO: Enter your application client ID here
-    CLIENT_ID = "50485685-2bde-4418-a9a9-9ff8b1751419"
+    CLIENT_ID = "48201f99-8c30-46bb-9ba3-41189ed9d586"
 
     # TODO: Enter the redirect path you want to use for OAuth requests
     #   Note that this will be the end of the URI entered back in Azure AD
